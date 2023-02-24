@@ -116,6 +116,8 @@ But.. Before doing anything, just take a look at the prerequisites! If you don't
 
 [![Windows][windows]][windows-url]
 
+[![Windows11][windows11]][windows-url]
+
 [![Ubuntu][ubuntu]][ubuntu-url]
 
 ### Prerequisites
@@ -242,9 +244,19 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your Changes (`git commit -m '[ADD] some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+**Commit norm:** "[COMMIT TYPE] Commit body"
+
+**Commit types:**
+
+_ADD_ when _adding_ new feature
+
+_MOD_ when _editing_ new feature
+
+_DEL_ when _deleting_ feature
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,7 +264,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -271,6 +283,16 @@ Marco Reguillot - marco.reguillot@epitech.eu
 Thomas Rabiet - thomas.rabiet@epitech.eu
 
 Project Link: [https://github.com/Touxooo/R-Type](https://github.com/Touxooo/R-Type)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- USEFUL LINKS -->
+
+## Useful Links
+
+[R-Type](https://fr.wikipedia.org/wiki/R-Type)
+
+[Epitech](https://www.epitech.eu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
