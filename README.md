@@ -30,14 +30,14 @@
   <p align="center">
     R-Type Clone
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Touxooo/R-Type"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Touxooo/R-Type">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Touxooo/R-Type/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Touxooo/R-Type/issues">Request Feature</a>
   </p>
 </div>
 
@@ -112,7 +112,7 @@ You can do everything you want with this project, play it, edit the code to add 
 
 But.. Before doing anything, just take a look at the prerequisites! If you don't respect the prerequisites, it will probably very complicated to use the project.
 
-### Supported OS
+## Supported OS
 
 [![Windows][windows]][windows-url]
 
@@ -120,7 +120,7 @@ But.. Before doing anything, just take a look at the prerequisites! If you don't
 
 [![Ubuntu][ubuntu]][ubuntu-url]
 
-### Prerequisites
+## Prerequisites
 
 **Windows**
 
