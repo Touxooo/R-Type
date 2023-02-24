@@ -112,6 +112,12 @@ You can do everything you want with this project, play it, edit the code to add 
 
 But.. Before doing anything, just take a look at the prerequisites! If you don't respect the prerequisites, it will probably very complicated to use the project.
 
+### Supported OS
+
+[![Windows][windows]][windows-url]
+
+[![Ubuntu][ubuntu]][ubuntu-url]
+
 ### Prerequisites
 
 **Windows**
@@ -298,3 +304,9 @@ Project Link: [https://github.com/Touxooo/R-Type](https://github.com/Touxooo/R-T
 [vcpkg-url]: https://vcpkg.io/en/index.html
 [nsis]: https://img.shields.io/static/v1?style=for-the-badge&message=NSIS&color=064F8C&label=
 [nsis-url]: https://nsis.sourceforge.io/Download
+[windows]: https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows&logoColor=FFFFFF&label=
+[windows-url]: https://www.microsoft.com/fr-fr/windows?r=1
+[windows11]: https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=
+[windows-url]: https://www.microsoft.com/fr-fr/windows?r=1
+[ubuntu]: https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=
+[ubuntu-url]: https://www.ubuntu-fr.org/
