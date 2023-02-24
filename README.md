@@ -118,6 +118,7 @@ Developper Edition
 - [Updated Windows Version](https://support.microsoft.com/fr-fr/windows/mettez-%C3%A0-jour-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
 - [Microsoft Visual Studio](https://visualstudio.microsoft.com/fr/downloads/)
 - [Winget (Windows Builtin)](https://learn.microsoft.com/fr-fr/windows/package-manager/winget/)
+- [NSIS](https://nsis.sourceforge.io/Download)
 - Administrator rights
 
 **Linux**
@@ -172,15 +173,7 @@ _I'm a developper, I want to build the project from source, run the setup instal
 _I just want to play Version_
 
 1. Download the R-Type Linux Setup Installer
-2. Run R-Type-Installer.exe
-3. Click Next
-4. Choose destination (Click next if you don't understand)
-5. Finish the installation
-6. Find your game on you Desktop or inside your installed Apps
-7. Launch r-type_server.exe to create your game server
-8. Launch r-type_client.exe
-9. Copy the adress IP on your Server Window and paste it on your Client Windows
-10. Share your adress IP to others and play!
+2. Unpack the R-Type Linux Installer.tar.gz
 
 _I'm a developper, I want to build the project from source and play Version_
 
@@ -188,13 +181,8 @@ _I'm a developper, I want to build the project from source and play Version_
    ```sh
    git clone https://github.com/Touxooo/R-Type.git
    ```
-2. Run build.bat
+2. Run build.sh
 3. Go inside build folder
-4. Go inside Release folder
-5. Launch r-type_server.exe to create your game server
-6. Launch r-type_client.exe
-7. Copy the adress IP on your Server Window and paste it on your Client Windows
-8. Share your adress IP to others and play!
 
 _I'm a developper, I want to build the project from source, run the setup installation and play Version_
 
@@ -202,17 +190,9 @@ _I'm a developper, I want to build the project from source, run the setup instal
    ```sh
    git clone https://github.com/Touxooo/R-Type.git
    ```
-2. Run build.bat
+2. Run build.sh
 3. Go inside build folder
-4. Run R-Type-Installer.exe
-5. Click Next
-6. Choose destination (Click next if you don't understand)
-7. Finish the installation
-8. Find your game on you Desktop or inside your installed Apps
-9. Launch r-type_server.exe to create your game server
-10. Launch r-type_client.exe
-11. Copy the adress IP on your Server Window and paste it on your Client Windows
-12. Share your adress IP to others and play!
+4. Unpack the R-Type Linux Installer.tar.gz
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,25 +208,13 @@ If you took the decision to build the project from source, then go to your build
 
 **Steps to play the game with your friends**
 
-1. Create a server by running R-Type Server
-2. Copy the IP Adress and Port of the server output
-3. Share the previous informations to your friends
-4. Run the client thanks to R-Type Client
-5. Paste the IP Adress and Port of the server
-6. Enjoy your gaming session!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+1. Go inside your game folder
+2. Create a server by running R-Type Server
+3. Copy the IP Adress and Port of the server output
+4. Share the previous informations to your friends
+5. Run the client thanks to R-Type Client
+6. Paste the IP Adress and Port of the server
+7. Enjoy your gaming session!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -279,19 +247,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Martin Delahousse - martin.delahousse@epitech.eu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Julien Espes - julien.espes@epitech.eu
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Serguei Leonov - serguei.leonov@epitech.eu
 
-<!-- ACKNOWLEDGMENTS -->
+Marco Reguillot - marco.reguillot@epitech.eu
 
-## Acknowledgments
+Thomas Rabiet - thomas.rabiet@epitech.eu
 
-- []()
-- []()
-- []()
+Project Link: [https://github.com/Touxooo/R-Type](https://github.com/Touxooo/R-Type)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
