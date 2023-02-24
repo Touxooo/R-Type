@@ -122,13 +122,13 @@ But.. Before doing anything, just take a look at the prerequisites! If you don't
 
 ## Prerequisites
 
-**Windows**
+### Windows
 
-Player Edition
+**Player Edition**
 
 - Windows
 
-Developper Edition
+**Developper Edition**
 
 - [Updated Windows Version](https://support.microsoft.com/fr-fr/windows/mettez-%C3%A0-jour-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
 - [Microsoft Visual Studio](https://visualstudio.microsoft.com/fr/downloads/)
@@ -136,20 +136,20 @@ Developper Edition
 - [NSIS](https://nsis.sourceforge.io/Download)
 - Administrator rights
 
-**Linux**
+### Linux
 
-Player Edition
+**Player Edition**
 
 - [Ubuntu](https://www.ubuntu-fr.org/download/)
 
-Developper Edition
+**Developper Edition**
 
 - [Ubuntu](https://www.ubuntu-fr.org/download/)
 - [APT](https://doc.ubuntu-fr.org/apt)
 - [GCC](https://gcc.gnu.org/) and G++
 - Sudo access
 
-### Installation
+## Installation
 
 **For Windows User**
 
