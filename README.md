@@ -86,14 +86,21 @@ players are able to fight together the evil Bydos!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+## Built With
 
-- [![CPP][c++]][c++-url]
-- QT5
-- SFML
-- VCPKG
-- CPACK
-- CMAKE
+[![CPP][c++]][c++-url]
+
+[![QT][qt]][qt-url]
+
+[![SFML][sfml]][sfml-url]
+
+[![CMAKE][cmake]][cmake-url]
+
+[![VCPKG][vcpkg]][vcpkg-url]
+
+[![CPACK][cpack]][cpack-url]
+
+[![NSIS][nsis]][nsis-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -277,5 +284,17 @@ Project Link: [https://github.com/Touxooo/R-Type](https://github.com/Touxooo/R-T
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[c++]: https://img.shields.io/badge/-C++-19437F?logo=c%2B%2B&logoColor=white&style=for-the-badge
+[c++]: https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=
 [c++-url]: https://en.cppreference.com/w/
+[cmake]: https://img.shields.io/static/v1?style=for-the-badge&message=CMake&color=064F8C&logo=CMake&logoColor=FFFFFF&label=
+[cmake-url]: https://cmake.org/
+[qt]: https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=
+[qt-url]: https://www.qt.io/
+[sfml]: https://img.shields.io/static/v1?style=for-the-badge&message=SFML&color=222222&logo=SFML&logoColor=8CC445&label=
+[sfml-url]: https://www.sfml-dev.org/index-fr.php
+[cpack]: https://img.shields.io/static/v1?style=for-the-badge&message=CPack&color=064F8C&logo=CMake&logoColor=FFFFFF&label=
+[cpack-url]: https://cmake.org/cmake/help/latest/module/CPack.html
+[vcpkg]: https://img.shields.io/static/v1?style=for-the-badge&message=VCPKG&color=F1C656&label=
+[vcpkg-url]: https://vcpkg.io/en/index.html
+[nsis]: https://img.shields.io/static/v1?style=for-the-badge&message=NSIS&color=064F8C&label=
+[nsis-url]: https://nsis.sourceforge.io/Download
